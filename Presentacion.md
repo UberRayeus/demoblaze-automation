@@ -26,7 +26,7 @@ el desarrollo de regresiones comprensivas. A saber:
       Correr la suite mediante el siguiente comando genera un reporte Html respecto al resultado de los test cases.
             --pytest -v --html=report.html ./tests/test_compra_E2E.py
 
-      El archivo data.json contiene los campos relevantes para la ejecucion de los test case. Alli debe definirse:
+      El archivo "data.json" contiene los campos relevantes para la ejecucion de los test case incluidos en la carpeta "tests". Alli debe definirse:
             -- Las credenciales del usuario que ejecuta la test suite
             -- Los elementos cuya compra se desea testear.
             -- Las credenciales necesarias para la compra incluyendo la **Tarjeta de Credito**

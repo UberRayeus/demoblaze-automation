@@ -1,0 +1,12 @@
+{
+    "username": "perropelotaperro2",
+    "password": "asdasd",
+    "driver": "d:\\Programacion y QA\\Automation\\Driver\\chromedriver.exe",
+    "URL": "https://www.demoblaze.com/index.html",
+    "Nombre" : "Pedro Paramo",
+    "Pais" : "Argentina",
+    "Ciudad" : "Buenos Aires",
+    "Tarjeta" : "123456",
+    "Mes" : "Agosto",
+    "Ao" : "2023"
+}
